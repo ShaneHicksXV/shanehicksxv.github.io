@@ -1,6 +1,5 @@
-# Welcome to GitHub Desktop!
+# My Portfolio Website
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This website was created for Assignment 2 and to shocase my work as a developing coding specialist. It includes a styled homepage built with HTML and CSS.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Shane Hicks
+Live site: https://shanehicksxv.github.io
