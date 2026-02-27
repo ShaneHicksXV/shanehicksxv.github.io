@@ -6,7 +6,7 @@ This repository presents a simplified project package for building a new electri
 
 (Replace with your GitHub Pages URL once deployed.)
 
-- Live Demo: https://yourusername.github.io/west-texas-substation-project
+- Live Demo: https://shanehicksxv.github.io/west-texas-substation-project
 
 ## Documentation
 
