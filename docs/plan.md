@@ -4,13 +4,9 @@
 **Project Manager:** Shane Hicks  
 **Date:** February 2026  
 
----
-
 ## Approach
 
 This project follows a simplified hybrid approach, combining structured planning with iterative refinement of documentation and website content. The focus is on clarity, stakeholder communication, and risk awareness rather than exhaustive technical detail.
-
----
 
 ## Work Breakdown Structure (WBS) and Schedule
 
@@ -58,8 +54,6 @@ The schedule is conceptual, grouped into five major phases. Each phase can align
 - 5.3 Training for operations staff.
 - 5.4 Final handover and project closure review.
 
----
-
 ## TAME Risk Analysis
 
 TAME = Technical, Administrative, Market (or stakeholder/acceptance), External.
@@ -104,8 +98,6 @@ TAME = Technical, Administrative, Market (or stakeholder/acceptance), External.
   - *Description:* Long lead times for transformers and breakers.
   - *Mitigation:* Early procurement; consider alternate suppliers; maintain communication with vendors.
 
----
-
 ## Stakeholders
 
 - **Transmission/Utility Owner:** Sponsors and operates the substation.
@@ -114,16 +106,12 @@ TAME = Technical, Administrative, Market (or stakeholder/acceptance), External.
 - **Regulators & Authorities Having Jurisdiction:** Oversee permits, safety, and environmental compliance.
 - **Construction Contractors & Engineering Firms:** Perform design and build work.
 
----
-
 ## Communications Plan (Simplified)
 
 - **Internal Project Team:** Weekly coordination meetings; shared schedule and risk log.
 - **Utility / Owner Leadership:** Monthly high-level updates.
 - **Community & Public:** Dedicated information webpage (this website), plus potential open house / Q&A.
 - **Regulatory Agencies:** As required by permitting milestones.
-
----
 
 ## Tools and Methods
 
